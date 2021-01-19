@@ -3,7 +3,7 @@ d digdis: Stata module to analyze the distribution of digits
 d 
 d Author: Ben Jann, University of Bern, ben.jann@soz.unibe.ch
 d
-d Distribution-Date: 20210118
+d Distribution-Date: 20210119
 f digdis.hlp
 f _digdis.ado
 f digdis.ado

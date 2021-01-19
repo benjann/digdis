@@ -1,5 +1,5 @@
 {smcl}
-{* 18jan2021}{...}
+{* 19jan2021}{...}
 {hi:help digdis}{...}
 {right:{browse "http://github.com/benjann/digdis/"}}
 {hline}
@@ -145,7 +145,7 @@
 {phang}
     {opt position(#)}, where {it:#} in [1,6], specifies the position of the
     digits to be tabulated. {cmd:position(1)} is the default. Examples: The
-    fist digits of 236, 4.015, and 0.00789 are 1, 4, and 7; the second
+    fist digits of 236, 4.015, and 0.00789 are 2, 4, and 7; the second
     digits are 3, 0, and 8; the third digits are 6, 1, and 9.
 
 {phang}
